@@ -50,5 +50,5 @@ This is the driver class containing the main method. It interacts with the `Worl
 3. Run the `ClientDriver` class to start the program.
 
 ## Author
-Aminkeng Nkeng
+[Aminkeng Nkeng]
 
